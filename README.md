@@ -2,14 +2,12 @@
 Calculadora em Flex/Bison. Disciplina de Compiladores
   
 <p>
-  Primeira linha do parágrafo.<br />
-  Segunda linha do parágrafo.
- TOKENS PRINCIPAIS:
+ TOKENS PRINCIPAIS:.<br />
  
  INICIO DO PROGRAMA:  $inicio.<br />
- FIM DO PROGRAMA:     $final<br />
+ FIM DO PROGRAMA:     $final.<br />
 
-TOKENS LEITURA E ESCRITA:
-  LEITURA:            escanear
-  ESCRITA:            printar
+TOKENS LEITURA E ESCRITA:.<br />
+  LEITURA:            escanear.<br />
+  ESCRITA:            printar.<br />
 </p>
