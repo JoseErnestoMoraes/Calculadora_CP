@@ -8,6 +8,7 @@ Calculadora em Flex/Bison. Disciplina de Compiladores
  FIM DO PROGRAMA:     $final.<br />
 
 TOKENS LEITURA E ESCRITA:.<br />
+  
   LEITURA:            escanear.<br />
   ESCRITA:            printar.<br />
 </p>
